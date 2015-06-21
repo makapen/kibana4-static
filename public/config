@@ -14,5 +14,5 @@
     "plugins/vis_types/index",
     "plugins/visualize/index"
   ],
-  "elasticsearch": "http://localhost:9200/"
+  "elasticsearch": "http://localhost/"
 }
